@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennasante
 - 👀 I’m interested in ...DevOps Engineering
-- 🌱 I’m currently learning ...Kubernetes
+- 🌱 I’m currently learning ...DevOps
 - 💞️ I’m looking to collaborate on ..DevOps Projects
 - 📫 How to reach me ...benn.boat@yahoo.com
 - 😄 Pronouns: ...He
